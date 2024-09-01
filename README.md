@@ -5,7 +5,7 @@ Terbium is a webOS packed full of features and more!
 
 ## Quick Deployments
 
-[![Run on Replit](https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/remade/replit.svg)](https://replit.com/github/TerbiumOS/webOS)
+[![Run on Replit](https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/remade/replit.svg)](https://webos-408cw.pages.dev)
 [![Run on Cyclic](https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/official/cyclic.svg)](https://app.cyclic.sh/api/app/deploy/TerbiumOS/webOS)
 [![Deploy to Cloudflare](https://raw.githubusercontent.com/z1g-project/terbium/main/static/resources/cflogo.png)](https://github.com/z1g-project/Terbium/wiki/Deploy-to-Cloudflare-Pages)
 [![Run on Glitch](https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/official/glitch.svg)](https://glitch.com/edit/#!/import/github/TerbiumOS/webOS)
